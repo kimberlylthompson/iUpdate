@@ -1,0 +1,26 @@
+00_Data/
+01_Analysis/
+02_Documents/
+03_Code/00 Might be Useful later
+03_Code/Biodiversity_Data Cleaning
+03_Code/Biodiversity_Plotting
+03_Code/Biodiversity_Preparation
+03_Code/Model Results Plotting
+03_Code/Model_Preparation
+03_Code/Modelling
+03_Code/Predictor_Data Cleaning
+03_Code/Predictor_Plotting
+03_Code/Predictor_Preparation
+03_Code/Reference
+03_Code/Relationship_Exploration
+03_Code/Relationship_Plotting
+03_Code/xx Cluster Examples
+03_Code/yy Modeling
+03_Code/zz Deprecated
+03_Code/neuralnet.R
+
+Autocorrelation_paper/
+Beta Diversity with Pao_paper/
+ERC Interview/
+Time Series_paper/
+sandbox_paper/

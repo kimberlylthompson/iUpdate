@@ -1,0 +1,229 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rprofile
+
+# Entire folders
+02_Documents/
+Autocorrelation_paper/
+Beta Diversity with Pao_paper/
+ERC Interview/
+Time Series_paper/
+sandbox_paper/
+
+# Files within 00_Data/
+00_Data/metadata
+00_Data/processed/BBS Data/Not Used
+00_Data/processed/BBS Data/Pilot Study
+00_Data/processed/BBS Data/BBS adjacency matrix_Abundance 1992 to 2018.txt
+00_Data/processed/BBS Data/BBS adjacency matrix_ObsRich 1992 to 2018.txt
+00_Data/processed/BBS Data/BBS adjacency matrix_RareRich 1992 to 2018.txt
+00_Data/processed/BBS Data/BBS distance matrix_routes from 1992 to 2018.txt
+00_Data/processed/BBS Data/BBS Observations with 20 years plus.csv
+00_Data/processed/BBS Data/BBS Routes with 20 years plus.csv
+00_Data/processed/BBS Data/BBS Rte 20 yrs_Linestring.dbf
+00_Data/processed/BBS Data/BBS Rte 20 yrs_Linestring.prj
+00_Data/processed/BBS Data/BBS Rte 20 yrs_Linestring.shp
+00_Data/processed/BBS Data/BBS Rte 20 yrs_Linestring.shx
+00_Data/processed/BBS Data/BBS Rte 20 yrs_Point.dbf
+00_Data/processed/BBS Data/BBS Rte 20 yrs_Point.prj
+00_Data/processed/BBS Data/BBS Rte 20 yrs_Point.shp
+00_Data/processed/BBS Data/BBS Rte 20 yrs_Point.shx
+
+00_Data/processed/BBS Data/Community Level Abundances for routes with 20 plus years from 1966 to 2019.csv
+00_Data/processed/BBS Data/Community Level Abundances for routes with 20 plus years.csv
+00_Data/processed/BBS Data/Key of Route Numbers and Years.csv
+00_Data/processed/BBS Data/Routes info for Species Level Abundances.csv
+00_Data/processed/BBS Data/Species Level Abundances for routes with 20 plus years.csv
+
+00_Data/processed/CCI corrected Cropped - on cluster
+00_Data/processed/GAIA Cropped - on cluster
+00_Data/processed/Geographic Boundaries
+00_Data/processed/GSW_Cropped
+00_Data/processed/iGFC Cropped - on cluster
+00_Data/processed/PRISM
+00_Data/processed/Spatial Predictors
+
+00_Data/processed/Cleaned_Master_Abundance_ Raw Responses and Predictors_1992 to 2018.csv
+00_Data/processed/Cleaned_Master_Observed Richness_ Raw Responses and Predictors_1992 to 2018.csv
+00_Data/processed/Cleaned_Master_Rarefied Richness_ Raw Responses and Predictors_1992 to 2018.csv
+00_Data/processed/GLS Master_Trends of Responses and Predictors_1992 to 2018.csv
+00_Data/processed/GLS Master_Trends of Responses and Predictors_1992 to 2018_YEAR INTERVALS.csv
+00_Data/processed/GLS Master_Trends of Responses and Predictors_ALL YEARS.csv
+00_Data/processed/Master_Abundance Richness_ Raw Responses and Predictors_1992 to 2018.csv
+00_Data/processed/Master_CommAbun_30YNP_Hilda_iGFC.csv
+00_Data/processed/Master_Diversity_30YNP_Hilda_iGFC.csv
+00_Data/processed/Master_Observed Richness_ Raw Responses and Predictors_1992 to 2018.csv
+00_Data/processed/Master_Rarefied Richness_ Raw Responses and Predictors_1992 to 2018.csv
+00_Data/processed/Master_RareRich_30YNP_Hilda_iGFC.csv
+00_Data/processed/Master_Responses and Predictors for CCM_1992 to 2018.csv
+00_Data/processed/Master_Rich.ba_30YNP_Hilda_iGFC.csv
+00_Data/processed/Master_Rich.fr_30YNP_Hilda.csv
+00_Data/processed/Master_SW_byyear.dbf
+00_Data/processed/Master_SW_byyear.orj
+00_Data/processed/Master_SW_byyear.shp
+00_Data/processed/Master_SW_byyear.shx
+00_Data/processed/Master_Trends of Responses and Predictors_ALL YEARS.csv
+00_Data/processed/Master_Trends of Responses and Predictors_SUMMARIZED.csv
+00_Data/processed/Master_Turnover_30YNP_Hilda_iGFC.csv
+00_Data/processed/Test Dataset NY LogObs Climate.csv
+00_Data/processed/Variogram parameters by day and site_presence_absence.csv
+
+00_Data/raw/BBS Observations/Stop Level Data
+
+00_Data/raw/Functional Traits
+
+00_Data/raw/USA Region Shapefiles
+00_Data/raw/BBS and Shpfile State Codes.csv
+
+
+
+# Files within 01_Analysis/
+01_Analysis/Basic Plots for Presentations
+01_Analysis/Biodiversity_Plotting
+
+01_Analysis/Biodiversity_Preparation/Biodiversity Base Metrics/Individ Based Rarefied Richness
+01_Analysis/Biodiversity_Preparation/Biodiversity Base Metrics/Community Rate Change.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Base Metrics/Community Stability.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Base Metrics/Hill Numbers_Data Info.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Base Metrics/Hill Numbers_Knot Estimates.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Base Metrics/Mean Rank Shift.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Base Metrics/RAC Curve Change.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Base Metrics/Rarefied Richness Summarized to .95 Coverage.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Base Metrics/Turnover.csv
+
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Year Interval Trends - all starting yrs
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Changepoint_Comm Abundance_Bayesian.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Changepoint_Rarefied Richness_Bayesian.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Changepoint_Richness_Bayesian.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Changepoint_Turnover_Bayesian.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends from Raw Vals_Biodiversity Metrics_Frequentist_GLS 1992 to 2018.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends_Biodiversity Metrics_Frequentist_GLS 1992 to 2018.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends_Biodiversity Metrics_Frequentist_GLS 1992 to 2018_YEAR INTERVALS.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends_Biodiversity Metrics_Frequentist_GLS.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends_Biodiversity Metrics_Frequentist_LM.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends_Comm Abundance_Bayesian.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends_Rarefied Richness_Bayesian.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends_Richness_Bayesian.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends_Richness_Frequentist.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends_Turnover_Bayesian.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Trends_Turnover_Frequentist.csv
+01_Analysis/Biodiversity_Preparation/Biodiversity Trends/Year of BBS Surveys with first year in 60s Legend.jpg.csv
+
+01_Analysis/Exploratory_Plotting
+01_Analysis/Model_Plotting
+
+01_Analysis/Modeling_BRMS/Conditional Effects
+
+01_Analysis/Modeling_BRMS/Time Series Length Analysis
+01_Analysis/Modeling_BRMS/Model Objects/CC and LUCC interactions only/With Sigma
+01_Analysis/Modeling_BRMS/Model Objects/CC and LUCC interactions only/Abundance_CC LUCC interactions_outliers removed.rds
+01_Analysis/Modeling_BRMS/Model Objects/CC and LUCC interactions only/Observed Richness_CC LUCC interactions_outliers removed.rds
+01_Analysis/Modeling_BRMS/Model Objects/CC and LUCC interactions only/Rarefied Richness_CC LUCC interactions_outliers removed.rds
+
+01_Analysis/Modeling_BRMS/abundance_pred_plus_CARescar_brms-30456042.rds
+01_Analysis/Modeling_BRMS/abundance_pred_plus_CARicar_brms-30506215.rds
+01_Analysis/Modeling_BRMS/abundance_pred_plus_SAC as CAR with no grouping term_brms-30392752.rds
+01_Analysis/Modeling_BRMS/observed_pred_plus_CARescar_brms-30456030.rds
+01_Analysis/Modeling_BRMS/observed_pred_plus_SAC as CAR with no grouping term_brms-30392722.rds
+
+01_Analysis/Modeling_BRMS/Log of models tried.docx
+01_Analysis/Modeling_BRMS/Model Validation and loo stats.docx
+01_Analysis/Modeling_BRMS/Summary comparison of all sites and minus 57.docx
+
+01_Analysis/Modeling_Preparation
+01_Analysis/Predictor_Plotting
+
+01_Analysis/Predictor_Preparation/Canopy Coverage from EVE
+01_Analysis/Predictor_Preparation/Climate Anomalies from EVE
+01_Analysis/Predictor_Preparation/Climate Raw Values from EVE
+01_Analysis/Predictor_Preparation/Land Cover CCI from EVE
+01_Analysis/Predictor_Preparation/Land Cover States from EVE
+01_Analysis/Predictor_Preparation/Merged Climate Anomalies from PRISM
+01_Analysis/Predictor_Preparation/Merged Land Cover Proportions Hilda
+01_Analysis/Predictor_Preparation/Surface Water from EVE
+01_Analysis/Predictor_Preparation/Urban Coverage from EVE
+
+01_Analysis/Predictor_Preparation/Merged Canopy Cover Percentages iGFC/Canopy Percentage for each BBS Route iGFC.csv
+01_Analysis/Predictor_Preparation/Merged Canopy Cover Percentages iGFC/Canopy Percentage for each BBS Route iGFC_20km.csv
+01_Analysis/Predictor_Preparation/Merged Canopy Cover Percentages iGFC/Canopy Percentage for each BBS Route iGFC_40km.csv
+
+01_Analysis/Predictor_Preparation/Merged Climate Raw Values from PRISM/Clim Raw Values for each BBS Route PRISM.csv
+01_Analysis/Predictor_Preparation/Merged Climate Raw Values from PRISM/Clim Raw Values for each BBS Route PRISM_20km.csv
+01_Analysis/Predictor_Preparation/Merged Climate Raw Values from PRISM/Clim Raw Values for each BBS Route PRISM_40km.csv
+
+01_Analysis/Predictor_Preparation/Merged Land Cover Proportions CCI/LC Proportions for each BBS Route CCI Corrected.csv
+01_Analysis/Predictor_Preparation/Merged Land Cover Proportions CCI/LC Proportions for each BBS Route CCI Corrected_20km buffer.csv
+01_Analysis/Predictor_Preparation/Merged Land Cover Proportions CCI/LC Proportions for each BBS Route CCI Corrected_40km buffer.csv
+
+01_Analysis/Predictor_Preparation/Merged Surface Water Percentages GSW/Surface Water Percentage for each BBS Route GSW.csv
+01_Analysis/Predictor_Preparation/Merged Surface Water Percentages GSW/Surface Water Percentage for each BBS Route GSW_20km.csv
+01_Analysis/Predictor_Preparation/Merged Surface Water Percentages GSW/Surface Water Percentage for each BBS Route GSW_40km.csv
+
+01_Analysis/Predictor_Preparation/Merged Urban Cover Percentages GAIA/Urban Percentage for each BBS Route GAIA.csv
+01_Analysis/Predictor_Preparation/Merged Urban Cover Percentages GAIA/Urban Percentage for each BBS Route GAIA_20km.csv
+01_Analysis/Predictor_Preparation/Merged Urban Cover Percentages GAIA/Urban Percentage for each BBS Route GAIA_40km.csv
+
+01_Analysis/Predictor_Preparation/Year Interval Trends - all starting yrs - on cluster
+01_Analysis/Predictor_Preparation/Changepoint_Climate_Bayesian.csv
+01_Analysis/Predictor_Preparation/Changepoint_Climate_MonthlyRaw_Bayesian.csv
+01_Analysis/Predictor_Preparation/Changepoint_GAIA_Bayesian.csv
+01_Analysis/Predictor_Preparation/Changepoint_Hilda LC_Bayesian.csv
+01_Analysis/Predictor_Preparation/Changepoint_iGFC_Bayesian.csv
+01_Analysis/Predictor_Preparation/Trends_Climate and Land Cover Predictors_Frequentist_GLS 1992 to 2018.csv
+01_Analysis/Predictor_Preparation/Trends_Climate and Land Cover Predictors_Frequentist_GLS 1992 to 2018_20km.csv
+01_Analysis/Predictor_Preparation/Trends_Climate and Land Cover Predictors_Frequentist_GLS 1992 to 2018_40km.csv
+01_Analysis/Predictor_Preparation/Trends_Climate and Land Cover Predictors_Frequentist_GLS.csv
+01_Analysis/Predictor_Preparation/Trends_Climate and Land Cover Predictors_GLS 1992 to 2018_400m_YEAR INTERVALS.csv
+01_Analysis/Predictor_Preparation/Trends_Climate and Land Cover Predictors_GLS_truncated rts_1992 to 2018_400m_YEAR INTERVALS.csv
+01_Analysis/Predictor_Preparation/Trends_Climate_Bayesian.csv
+01_Analysis/Predictor_Preparation/Trends_Climate_MonthlyRaw_Bayesian.csv
+01_Analysis/Predictor_Preparation/Trends_GAIA_Bayesian.csv
+01_Analysis/Predictor_Preparation/Trends_Hilda LC_Bayesian.csv
+01_Analysis/Predictor_Preparation/Trends_iGFC_Bayesian.csv
+
+01_Analysis/Relationship_Exploration
+01_Analysis/Relationship_Plotting
+01_Analysis/yy Modeling CCM Output
+01_Analysis/Modeling_BRMS Output
+01_Analysis/zz Deprecated
+
+01_Analysis/11-11-22 Gaussian process model notes.docx
+01_Analysis/BRMS Notes.docx
+01_Analysis/CAR icar escar notes.docx
+01_Analysis/Debugging Notes.docx
+01_Analysis/Gaussian processes in Stan.docx
+01_Analysis/INLA Notes.docx
+01_Analysis/Interpreting log slopes as percent change.docx
+01_Analysis/Methods notes.pptx
+01_Analysis/Methods Summary.docx
+01_Analysis/Notes on my model.docx
+01_Analysis/Notes on setting informed priors.docx
+01_Analysis/Results and Model Validation Notes.docx
+01_Analysis/Stan code examples.docx
+
+
+
+
+#### Files within 03_Code/
+03_Code/00 Might be Useful later
+03_Code/Biodiversity_Data Cleaning
+03_Code/Biodiversity_Plotting
+03_Code/Biodiversity_Preparation
+03_Code/Model Results Plotting
+03_Code/Model_Preparation
+03_Code/Modelling
+03_Code/Predictor_Data Cleaning
+03_Code/Predictor_Plotting
+03_Code/Predictor_Preparation
+03_Code/Reference
+03_Code/Relationship_Exploration
+03_Code/Relationship_Plotting
+03_Code/xx Cluster Examples
+03_Code/yy Modeling
+03_Code/zz Deprecated
+03_Code/neuralnet.R
+
+
+
